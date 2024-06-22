@@ -1,5 +1,3 @@
-Doctoral Candidate in Physical Chemistry at Michigan State University
-
 Molecular spectroscopy and photophysics
 
 <!---
